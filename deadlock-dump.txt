@@ -1,0 +1,7 @@
+Deadlock detected!
+"Thread-1" Id=12 BLOCKED on java.lang.Object@1218025c owned by "Thread-0" Id=11
+
+
+"Thread-0" Id=11 BLOCKED on java.lang.Object@816f27d owned by "Thread-1" Id=12
+
+
